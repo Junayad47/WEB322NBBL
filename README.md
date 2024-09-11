@@ -1,13 +1,13 @@
 # WEB322NBBL
 	
 
-#Subject Title
+#Subject Title:
 Web Programming Tools and Frameworks
 
-#Subject Description
+#Subject Description:
 The modern world deploys its software applications on the web, because of the web's scale, reach, and ease of use. This course teaches students to design and create simple web applications and services, in JavaScript, using widely-used and powerful tools and frameworks. The major topic themes of this course include a study of the web as a programming platform, server and client programming techniques, an introduction to data storage schemes, and an introduction to security.
 
-#Learning Outcomes
+#Learning Outcomes:
 Upon successful completion of this subject the student will be able to:
 
     •  Contrast server-based and web client applications, to make an informed decision about creating a server-based web app.
@@ -26,7 +26,7 @@ Upon successful completion of this subject the student will be able to:
     
     •  Select a suitable host for a published web app, to enable access on the public web.
 
-#Essential Employability Skills
+#Essential Employability Skills:
     •  Execute mathematical operations accurately.
 
     •  Apply a systematic approach to solve problems.
