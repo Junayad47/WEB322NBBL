@@ -25,8 +25,10 @@ Upon successful completion of this subject the student will be able to:
     •  Create a simple security system including identity management, authentication, authorization, and resource sharing, to control access to a web app by authorized users.
     
     •  Select a suitable host for a published web app, to enable access on the public web.
+    
 
 #Essential Employability Skills:
+
     •  Execute mathematical operations accurately.
 
     •  Apply a systematic approach to solve problems.
